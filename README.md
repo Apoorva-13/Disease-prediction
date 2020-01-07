@@ -8,7 +8,7 @@ Machine learning is widely used in bio informatics and particularly in breast ca
 2. K-nearest neighbors (K-NN) 
 3. Random Forests	
 
-Our Goal of this project will be to analyze breast cancer data using three classification techniques to predict the occurrence of the cancer and then compare the results.\
+Our Goal of this project will be to analyze breast cancer data using three classification techniques to predict the occurrence of the cancer and then compare the results.
 
 This project will be to analyze breast cancer data using three classification techniques to predict the occurrence of the cancer and then compare the results.
 
