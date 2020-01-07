@@ -6,9 +6,9 @@ We will first create a model, train that model, then we create a confusion matri
 Machine learning is widely used in bio informatics and particularly in breast cancer diagnosis. In this project, we have used certain classification methods like :
 1. Decision Trees
 2. K-nearest neighbors (K-NN) 
-3. Random Forests	\
+3. Random Forests	
 
-Our Goal of this project will be to analyze breast cancer data using three classification techniques to predict the occurrence of the cancer and then compare the results.\\
+Our Goal of this project will be to analyze breast cancer data using three classification techniques to predict the occurrence of the cancer and then compare the results.\
 
 This project will be to analyze breast cancer data using three classification techniques to predict the occurrence of the cancer and then compare the results.
 
